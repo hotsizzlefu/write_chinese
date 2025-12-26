@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'KaiTi', 'SimKai', 'STKaiti', serif; /* Use a handwriting-style font */
+  background-color: #f0fdf4; /* Light green background */
+}
